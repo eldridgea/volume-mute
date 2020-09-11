@@ -1,4 +1,4 @@
-A quick and dirty Bash/Applescript intended to be run via cron that pops a notficaion at the end of work hours and if there's no response (or if you respond "yes") will mute your machine.
+A quick and dirty Bash/Applescript intended to be run via cron that pops a notficaion at the end of work hours and if there's no response afte 30 seconds (or if you respond "yes") will mute your machine.
 
 Mainly because Slack doens't respect macOS Do Not Disturb. At least on my machine. 
 
